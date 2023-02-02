@@ -1,5 +1,5 @@
 <p align=center>
-  <img alt="Project's status" src="https://img.shields.io/badge/Status-Stall-red">
+  <img alt="Project's status" src="https://img.shields.io/github/last-commit/kema-dev/ft_kalman?logo=github">
   <img alt="Project's primary language" src="https://img.shields.io/badge/Language-Python%20(Jupyter%20Notebooks)-blue">
   <img alt="Project's focus" src="https://img.shields.io/badge/Focus-Movement%20prediction-blue">
 </p>
